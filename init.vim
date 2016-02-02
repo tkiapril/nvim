@@ -5,7 +5,8 @@ runtime vim-plug/plug.vim
 call plug#begin()
 
 Plug 'tpope/vim-sensible'
-Plug 'bling/vim-airline'
+Plug 'vim-airline/vim-airline'
+Plug 'vim-airline/vim-airline-themes'
 Plug 'tomasr/molokai'
 Plug 'junegunn/seoul256.vim'
 
